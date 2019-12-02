@@ -1,0 +1,10 @@
+C:\Users\manol\Documents\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\manol\Documents\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\manol\Documents\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.MainMenu.resources
+C:\Users\manol\Documents\BlackJack\BlackJack\obj\Debug\BlackJack.StartGame.resources
